@@ -11,7 +11,6 @@ The main objective of this project is to leverage the power of machine learning
 techniques to identify people who are at risk of developing CHD within 10 years, so 
 that appropriate medical intervention processes can be promptly administered.
 
-
 ## Approach  
 
 01 Data Wrangling : Understanding the dataset and cleaning the data
@@ -25,6 +24,12 @@ that appropriate medical intervention processes can be promptly administered.
 05 Recommendations : The lifestyle changes to make to reduce changes of heart disease
 
 06 Enhancements : Ensemble the models
+
+![image](https://github.com/user-attachments/assets/5d5ab29e-d5a8-4a07-a599-b558fee3c3d8)
+
+
+![image](https://github.com/user-attachments/assets/e1f02443-a067-4a25-89ad-6b9fa5a533c0)
+
 
 ## Enhancements
  ● Build a voting classifier which is an ensemble of different ML models used to improve performance

@@ -22,8 +22,13 @@ that appropriate medical intervention processes can be promptly administered.
 Approach  
 
 01 Data Wrangling : Understanding the dataset and cleaning the data
+
 02 EDA : Univariate and Bivariate analysis
+
 03 Feature Engineering : Creating variable interactions based on secondary research and EDA
+
 04 Modelling & Validation : Training multiple models and validating them, then comparing the models to arrive at the best one
+
 05 Recommendations : The lifestyle changes to make to reduce changes of heart disease
+
 06 Enhancements : Ensemble the models
